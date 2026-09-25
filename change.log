@@ -1,0 +1,5 @@
+inside profile used package.json and run npm run preview
+outside of profile-builder run script.sh
+
+build another project copy its build files by renaming index.html to 404.html 
+ensure the assets , javscript, css files are correctly loaded and if not debug from browser and validate the correct file, first check assets files are loaded in browser url if yes then start adjustind the url in 404.html
